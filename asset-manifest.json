@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/AlixandrN/pet1/static/js/main.27be1226.js",
-    "index.html": "/AlixandrN/pet1/index.html",
-    "main.27be1226.js.map": "/AlixandrN/pet1/static/js/main.27be1226.js.map"
+    "main.js": "./static/js/main.f34a5705.js",
+    "index.html": "./index.html",
+    "main.f34a5705.js.map": "./static/js/main.f34a5705.js.map"
   },
   "entrypoints": [
-    "static/js/main.27be1226.js"
+    "static/js/main.f34a5705.js"
   ]
 }
